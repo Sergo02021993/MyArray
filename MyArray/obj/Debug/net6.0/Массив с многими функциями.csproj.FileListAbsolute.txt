@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\bin\Debug\net6.0\Массив с многими функциями.exe
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\bin\Debug\net6.0\Массив с многими функциями.deps.json
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\bin\Debug\net6.0\Массив с многими функциями.runtimeconfig.json
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\bin\Debug\net6.0\Массив с многими функциями.dll
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\bin\Debug\net6.0\Массив с многими функциями.pdb
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.dll
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\refint\Массив с многими функциями.dll
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.pdb
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\Массив с многими функциями.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\VS Code\Новая папка\Массив с многими функциями\obj\Debug\net6.0\ref\Массив с многими функциями.dll
